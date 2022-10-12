@@ -22,3 +22,7 @@ a defined way to breach the security of an IT system through vulnerabilty
 
 Risk
 a situation involving exposure to danger
+
+
+- Different types of security threats
+- WHat is a vulnerabilty assesment? 
