@@ -25,4 +25,5 @@ a situation involving exposure to danger
 
 
 - Different types of security threats
-- WHat is a vulnerabilty assesment? 
+- What is a vulnerabilty assesment? 
+- What differnet roles are available in cybersecurity? 
