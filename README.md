@@ -32,3 +32,5 @@ a situation involving exposure to danger
 13.10.22
 
 - delved deeper into the history of cybersecurity and cyber warfare today and grasped a better understanding of why cybersecurity is needed after researching into some specific cyber attacks and cyber warefare examples.
+
+- things to consider before applying a cyber security program.
