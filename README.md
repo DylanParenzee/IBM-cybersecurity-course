@@ -27,3 +27,8 @@ a situation involving exposure to danger
 - Different types of security threats
 - What is a vulnerabilty assesment? 
 - What differnet roles are available in cybersecurity? 
+
+
+13.10.22
+
+- delved deeper into the history of cybersecurity and cyber warfare today and grasped a better understanding of why cybersecurity is needed after researching into some specific cyber attacks and cyber warefare examples.
