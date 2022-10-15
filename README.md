@@ -42,3 +42,7 @@ a situation involving exposure to danger
 - More through insights into the CIA triad
 
 - working on the understanding that implementing computer secuity is a tricky business, sometimes the solution is a viable vulnerability itself, an attacker only has to be right once, where as the protection has to work 100 percent of the time in an ever-changing dynamic area.
+
+16.10.22
+
+- What is critcal thinking and why it is so important in cybersecurity
