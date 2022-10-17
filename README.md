@@ -46,3 +46,9 @@ a situation involving exposure to danger
 16.10.22
 
 - What is critcal thinking and why it is so important in cybersecurity
+
+17.10.22
+
+- delving deeper into the value of crirtical thinking in cyber sec 
+- The nessesary technical skills for a cyber sec career 
+-  Top 5 ley skills for critical thinking
