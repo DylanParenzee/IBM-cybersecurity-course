@@ -52,3 +52,8 @@ a situation involving exposure to danger
 - delving deeper into the value of crirtical thinking in cyber sec 
 - The nessesary technical skills for a cyber sec career 
 -  Top 5 ley skills for critical thinking
+
+
+18.10.22
+- revision and end of module test (97%) 
+- with this the first week of the course is complet, moving on to module 2 "Security Attacks, actors and their motives"
